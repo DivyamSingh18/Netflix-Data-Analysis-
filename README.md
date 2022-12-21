@@ -1,5 +1,6 @@
 # Netflix-Data-Analysis-
-This Repo contains Netflix data used for the analysis.
+- This Repo contains Netflix data used for the analysis.
+- Link for Tableau Dashboard: https://public.tableau.com/app/profile/divyam.singh/viz/NetflixDataAnalysis_16716420731540/Netlfix
 
 <hr>
 
